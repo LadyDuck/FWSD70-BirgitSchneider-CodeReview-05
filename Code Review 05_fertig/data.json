@@ -1,0 +1,45 @@
+var movies = [
+    {
+       "image": "img/movie1.jpg",
+
+       "name": "A Star is Born",
+
+       "desc": "This is a short description of this wonderfull movie.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+
+   }, {
+
+       "image": "img/movie2.jpg",
+
+       "name": "Unconditional Love",
+
+       "desc": "This is a short description of this wonderfull movie.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+   }, {
+
+       "image": "img/movie3.jpg",
+
+       "name": "Hangover",
+
+       "desc": "This is a short description of this wonderfull movie.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  }, {
+
+       "image": "img/movie4.jpg",
+
+       "name": "Adams Äpfel",
+
+       "desc": "This is a short description of this wonderfull movie.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  }, {
+
+       "image": "img/movie5.jpg",
+
+       "name": "Pets",
+
+       "desc": "This is a short description of this wonderfull movie.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+  }, {
+
+       "image": "img/movie6.jpg",
+
+       "name": "Shrek",
+
+       "desc": "This is a short description of this wonderfull movie.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+
+   }];

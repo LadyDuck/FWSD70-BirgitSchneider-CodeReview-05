@@ -59,15 +59,19 @@ $(document).ready(function() {
 						            </div>
 						           </div> `);
 
-								}
+								};
 
 				
 
-		$(".like").on('click', function() {
-		let y = $(this).find(".counter").text();
-		y++
-		console.log(y);
-		$(this).parent().find(".counter").text(y);
+		// Click Zählen
+
+		// $(".like").click(function() {
+		// 	let click = $(this).find(".counter").text();
+			
+		// 	click++;
+		// 	console.log(click);
+		// 	$(this).find(".counter").text(click);
+		// })
 	});
 
 
